@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.example.g015c1140.samplememoapp.DetailActivity">
+
+    <item
+        android:id="@+id/editButton"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="編集"
+        app:showAsAction="always" />
+
+</menu>
